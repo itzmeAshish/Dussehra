@@ -3,7 +3,7 @@
 # 🏹 Dussehra — Ravana Dahan on a 0.96" OLED
 ### Rama's arrow flies. Ravana burns. "Happy Dussehra" lights up. All on a screen the size of a postage stamp.
 
-<img src="https://www.oledanimationmaker.com/github-readmes/Dussehra-preview.gif" alt="Dussehra animation playing on a 128x64 SSD1306 OLED: Rama fires an arrow, Ravana burns, Happy Dussehra appears" width="512" />
+<img src="preview.gif" alt="Dussehra animation playing on a 128x64 SSD1306 OLED: Rama fires an arrow, Ravana burns, Happy Dussehra appears" width="512" />
 
 **300 frames. One ESP8266. Zero audio. Good over evil, in 1-bit.**
 
